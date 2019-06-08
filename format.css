@@ -1,0 +1,33 @@
+h1 { text-align: center; }
+
+.left {
+    float: left;
+}
+
+.container{
+    width: 32%;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: #ffff99
+}
+
+p {padding: 10px; }
+
+body {background-color: #99ccff; }
+
+h1 {
+    border-left: 6px solid #ffff99;
+    background-color: #ffff99;
+}
+.title {
+    text-align: center;
+}
+.title-container {
+    float: right;
+    width: 50%;
+    border-left: 6px dotted #ffff99;
+    border-bottom: 6px dotted #ffff99;
+}
+.content {
+    clear: both;
+}
